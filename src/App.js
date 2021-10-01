@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route, Link } from "react-router-dom";
+import { Switch, Route, Link } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import {
   Navbar,
@@ -20,7 +20,7 @@ export const App = () => {
       <div className="main">
         <Layout>
           <div className="routes">
-            <HashRouter basename='/'>
+            <Switch>
               <Route exact path="/">
                 <Homepage />
               </Route>
@@ -36,7 +36,7 @@ export const App = () => {
               <Route exact path="/crypto/:coinId">
                 <CryptoDetails />
               </Route>
-            </HashRouter>
+            </Switch>
           </div>
         </Layout>
         <div className="footer">

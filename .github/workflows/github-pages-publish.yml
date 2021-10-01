@@ -17,7 +17,7 @@ jobs:
           REACT_APP_CRYPTO_API_URL: ${{ secrets.REACT_APP_CRYPTO_API_URL }}
           REACT_APP_NEWS_RAPIDAPI_HOST: ${{ secrets.REACT_APP_NEWS_RAPIDAPI_HOST }}
           REACT_APP_NEWS_API_URL: ${{ secrets.REACT_APP_NEWS_API_URL }}
-          #HOME_PAGE: ${{ secrets.HOME_PAGE }}
+          PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
         run: |
           npm install
           npm run build
