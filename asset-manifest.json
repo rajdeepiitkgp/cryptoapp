@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cryptoapp/static/css/main.e2d4aa6c.chunk.css",
-    "main.js": "/cryptoapp/static/js/main.095fe6e4.chunk.js",
-    "main.js.map": "/cryptoapp/static/js/main.095fe6e4.chunk.js.map",
-    "runtime-main.js": "/cryptoapp/static/js/runtime-main.15979bac.js",
-    "runtime-main.js.map": "/cryptoapp/static/js/runtime-main.15979bac.js.map",
-    "static/css/2.786ae0dd.chunk.css": "/cryptoapp/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.fda4e129.chunk.js": "/cryptoapp/static/js/2.fda4e129.chunk.js",
-    "static/js/2.fda4e129.chunk.js.map": "/cryptoapp/static/js/2.fda4e129.chunk.js.map",
-    "index.html": "/cryptoapp/index.html",
-    "static/css/2.786ae0dd.chunk.css.map": "/cryptoapp/static/css/2.786ae0dd.chunk.css.map",
-    "static/css/main.e2d4aa6c.chunk.css.map": "/cryptoapp/static/css/main.e2d4aa6c.chunk.css.map",
-    "static/js/2.fda4e129.chunk.js.LICENSE.txt": "/cryptoapp/static/js/2.fda4e129.chunk.js.LICENSE.txt",
-    "static/media/cryptocurrency.1548aced.png": "/cryptoapp/static/media/cryptocurrency.1548aced.png"
+    "main.css": "https://rajdeepiitkgp.github.io/cryptoapp/static/css/main.e2d4aa6c.chunk.css",
+    "main.js": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/main.55c25e1a.chunk.js",
+    "main.js.map": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/main.55c25e1a.chunk.js.map",
+    "runtime-main.js": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/runtime-main.78a2d20f.js",
+    "runtime-main.js.map": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/runtime-main.78a2d20f.js.map",
+    "static/css/2.786ae0dd.chunk.css": "https://rajdeepiitkgp.github.io/cryptoapp/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.fe7ceee5.chunk.js": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/2.fe7ceee5.chunk.js",
+    "static/js/2.fe7ceee5.chunk.js.map": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/2.fe7ceee5.chunk.js.map",
+    "index.html": "https://rajdeepiitkgp.github.io/cryptoapp/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "https://rajdeepiitkgp.github.io/cryptoapp/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.e2d4aa6c.chunk.css.map": "https://rajdeepiitkgp.github.io/cryptoapp/static/css/main.e2d4aa6c.chunk.css.map",
+    "static/js/2.fe7ceee5.chunk.js.LICENSE.txt": "https://rajdeepiitkgp.github.io/cryptoapp/static/js/2.fe7ceee5.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "https://rajdeepiitkgp.github.io/cryptoapp/static/media/cryptocurrency.1548aced.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15979bac.js",
+    "static/js/runtime-main.78a2d20f.js",
     "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.fda4e129.chunk.js",
+    "static/js/2.fe7ceee5.chunk.js",
     "static/css/main.e2d4aa6c.chunk.css",
-    "static/js/main.095fe6e4.chunk.js"
+    "static/js/main.55c25e1a.chunk.js"
   ]
 }
